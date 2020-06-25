@@ -1,5 +1,5 @@
 {
-    "name": "she-zhi-she/aes-crypt",
+    "name": "shezhishe/aescrypt",
     "description": "AES128 AES256加密解密",
     "type": "library",
     "license": "MIT",
