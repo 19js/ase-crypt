@@ -6,10 +6,6 @@
  * @Date  2020/6/25 下午12:10
  */
 namespace SheZhiShe;
-
-
-use mysql_xdevapi\Exception;
-
 /**
  * [0] => AES-128-CBC
  * [1] => AES-128-CFB

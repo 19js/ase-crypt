@@ -9,7 +9,7 @@ AES加密解密
 3. php test/Test.php
 # 开始使用
 ``
-composr require
+composer require she-zhi-she/aes-crypt
 ``
 + 简单使用
 ````
