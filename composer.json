@@ -3,6 +3,7 @@
     "description": "AES128 AES256加密解密",
     "type": "library",
     "license": "MIT",
+    "keywords": ["php","aes","crypt","加密","解密","AES128 AES256","laravel","thinkphp","hyperf"],
     "authors": [
         {
             "name": "SheZhiShe",
